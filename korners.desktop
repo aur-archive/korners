@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+GenericName=Helma game
+Name=Korners
+Exec=korners
+Icon=/usr/share/pixmaps/korners.png
+Categories=Game;BoardGame
